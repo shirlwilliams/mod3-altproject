@@ -4,7 +4,7 @@ Module 3 Project<br>
 
 Building a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel.
 
-![image.png](attachment:image.png)
+<img src="images/churn-graphic.png" alt='people leaving big churn clip art' width=500>
 
 # Outline
 * EDA
@@ -42,7 +42,7 @@ Building a classifier to predict whether a customer will ("soon") stop doing bus
 Predictions should be made on when customers are likely to leave (churn).
 
 <img src="images/churn-plot.png" alt="churn data" align="left"/>
-<img src="images/churn-counts.png" alt="churn numbers" align="center" width="150"/><br>
+<img src="images/churn-counts.png" alt="churn numbers" align="center" width="150"/><br><br><br><br><br><br>
 
 ## Handling Categorical Data
 * Area code is already numerical and only two values are represented so there is nothing to do.
